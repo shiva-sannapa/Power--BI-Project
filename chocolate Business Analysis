@@ -1,0 +1,66 @@
+# 🍫 Chocolate Sales Data Analysis (Power BI Project)
+
+## 📌 Project Overview
+This project analyzes chocolate business sales data using Power BI to generate insights on sales performance, profit, shipments, and cost trends.
+
+---
+
+## 📊 Objectives
+- Analyze total sales, profit, cost, and shipments
+- Identify monthly trends and performance
+- Compare KPIs using dynamic visuals
+- Provide business insights for decision making
+
+---
+
+## 🛠 Tools Used
+- Power BI
+- Excel (Data Source)
+- DAX (Data Analysis Expressions)
+
+---
+
+## 📁 Dataset
+The dataset contains:
+- Sales data
+- Shipment details
+- Cost and profit information
+- Time-based data (Month, Year)
+
+---
+
+## 📈 Key Insights
+- Identified top-performing months
+- Compared Sales vs Profit trends
+- Analyzed shipment distribution
+- Highlighted cost variations
+
+---
+
+## 📊 Dashboard Features
+- KPI Cards (Sales, Profit, Cost, Shipments)
+- Trend Charts (Dynamic using Field Parameters)
+- Month-over-Month comparison
+- Interactive filtering
+
+---
+
+## 📂 Files Included
+- `Chocolate_Sales_Data.xlsx` → Raw dataset
+- `Chocolate_Dashboard.pbix` → Power BI report file
+
+---
+
+## 🚀 How to Use
+1. Download the `.pbix` file
+2. Open in Power BI Desktop
+3. Explore dashboards and visuals
+
+---
+
+## 👤 Author
+Shiva (Data Analyst Enthusiast)
+
+---
+
+## ⭐ If you like this project, give it a star!
